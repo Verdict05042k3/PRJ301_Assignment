@@ -1,0 +1,97 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Mar 7, 2024, 5:36:55 PM
+    Author     : admin
+*/
+
+
+.check_rm {
+    padding: 20px; /* Adjust padding as needed */
+}
+
+.checkout_1r {
+    border-bottom: 1px solid #ccc; /* Add a border bottom for separation */
+}
+
+.checkout_1l2 .iw {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.mgt {
+    margin-top: 0;
+}
+
+.text-right {
+    text-align: right; /* Ensure text alignment to the right */
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto; /* Ensure responsive image display */
+}
+.checkout-form {
+
+    padding: 20px; /* Add some padding for spacing */
+    border-radius: 5px; /* Add rounded corners */
+}
+
+.mb-3 {
+    margin-bottom: 15px; /* Add margin bottom for spacing */
+}
+.btn-return-cart {
+    /* Add custom styles for the button */
+    background-color: #007bff; /* Blue color */
+    color: #fff; /* White text color */
+    border: none; /* Remove border */
+    padding: 10px 20px; /* Add padding */
+    border-radius: 5px; /* Add rounded corners */
+    text-decoration: none; /* Remove underline */
+}
+
+.btn-return-cart:hover {
+    background-color: #0056b3; /* Darker blue color on hover */
+}
+
+.check_rm {
+    border: 1px solid #ccc; /* Add border */
+    padding: 20px; /* Add padding */
+}
+
+.check_rm .checkout_1r1 {
+    margin-top: 20px; /* Add margin top */
+}
+
+.check_rm .checkout_1r1 hr {
+    border-top: 1px solid #ccc; /* Style hr */
+}
+
+.extended-hr {
+    width: 100%; /* Set hr width to 100% */
+}
+
+.btn-danger {
+    border: 1px solid red; /* Add border to button */
+    color: red; /* Set text color */
+    padding: 10px 20px; /* Add padding */
+    text-decoration: none; /* Remove underline */
+}
+
+.btn-danger:hover {
+    background-color: red; /* Change background color on hover */
+    color: white; /* Change text color on hover */
+}
+
+.checkout_1r1_wrapper {
+    border: 1px solid #ccc; /* Add border */
+    padding: 20px; /* Add padding */
+}
+
+.custom-button {
+    background-color: transparent; /* Ẩn nền của button */
+    border: none; /* Xóa viền */
+}

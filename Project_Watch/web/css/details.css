@@ -1,0 +1,33 @@
+.card-img-top {
+    border: 1px solid rgba(0, 0, 0, 0.125); /* Thêm viền */
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15); /* Đổ bóng */
+    border-radius: 10px;
+}
+.text{
+    margin-bottom: 150px;
+}
+/* CSS for the details button */
+.details-btn {
+    background-color: transparent;
+    border: none;
+    color: inherit;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.details-btn:hover {
+    transform: scale(1.2); /* Scale up the button on hover */
+}
+
+/* CSS for the buy button */
+.buy-btn {
+    background-color: transparent;
+    border: none;
+    color: inherit;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.buy-btn:hover {
+    transform: scale(1.2); /* Scale up the button on hover */
+}
